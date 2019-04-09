@@ -26,7 +26,7 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
-    $host = "aurigawebappserver";
+    $host = "aurigawebappserver.database.windows.net";
     $user = "aurigaaristo";
     $pass = "Auriga99";
     $db = "aurigawebdatabase";
